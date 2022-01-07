@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="starknet logo" src="./src/assets/starknet.png" width="200" >
+</div>
+
 # vue-stark-boil
 Boilerplate project for connecting your Vue.js application to StarkNet
 
@@ -10,6 +14,8 @@ Boilerplate project for connecting your Vue.js application to StarkNet
 - call contract with discovered address
 - invoke contract function
 - parse tx response
+
+![Boil App](src/assets/boil-app.jpg)
 
 ## Includes Templating For:
 - Vue3.js
