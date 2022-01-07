@@ -1,4 +1,6 @@
 <div align="center">
+  <img alt="vue logo" src="./src/assets/vueLogo.png" width="200" >
+  <img alt="addem" src="./src/assets/plus.png" width="200" >
   <img alt="starknet logo" src="./src/assets/starknet.png" width="200" >
 </div>
 
