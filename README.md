@@ -1,10 +1,20 @@
 <div align="center">
-  <img alt="vue logo" src="./src/assets/vueLogo.png" width="200" >
+  <img alt="vue logo" src="./src/assets/logo.png" width="200" >
   <img alt="addem" src="./src/assets/plus.png" width="200" >
   <img alt="starknet logo" src="./src/assets/starknet.png" width="200" >
 </div>
 
-# vue-stark-boil
+<h2 align="center">vue-stark-boil</h2>
+
+<p align="center">
+    <a href="https://github.com/dontpanicdao/caigo/blob/main/LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-black">
+    </a>
+    <a href="https://starkware.co/">
+        <img src="https://img.shields.io/badge/powered_by-StarkWare-navy">
+    </a>
+</p>
+
 Boilerplate project for connecting your Vue.js application to StarkNet
 
 ## Boiler Features:
