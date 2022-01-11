@@ -51,7 +51,7 @@ Transaction hash: 0x2ae72328e197009b62ecc53580659712f78f8a6bdb4384684e22583e69ed
 
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
