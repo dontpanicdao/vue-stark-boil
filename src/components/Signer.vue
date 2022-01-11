@@ -7,7 +7,7 @@
     </div>
     <div class="flex md6">
       <va-card>
-        <va-card-content>
+        <va-card-content style="overflow: scroll">
           <span v-if="!l2InFlight && !l2AccountSigner">signer...</span>
           <span v-if="l2AccountSigner">{{ l2AccountSigner }}</span>
         </va-card-content>
