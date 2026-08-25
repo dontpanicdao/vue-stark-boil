@@ -18,7 +18,7 @@
 Boilerplate project for connecting your Vue.js application to StarkNet
 
 ## Boiler Features:
-- connect to wallet
+- connect 2 wallet
 - disconnect from wallet
 - listen for account change
 - update on account change
